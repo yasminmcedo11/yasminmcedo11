@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yasminmcedo11&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmcedo11&layout=compact&theme=radical)
+
 <!--
 **yasminmcedo11/yasminmcedo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
