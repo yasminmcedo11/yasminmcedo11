@@ -3,7 +3,7 @@
 <!--**`Data Scientist`** -->
 <!--**`Desenvolvedora Backend`** -->
 
-Hii, I'm Yasmin Macedo, I'm 22 years old, and I'm currently studying Computer Science at UFF. 😊🚀
+Oii, sou a Yasmin Macedo, tenho 22 anos e atualmente estudo Ciência da Computação na UFF. 😊🚀
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block">
